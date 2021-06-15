@@ -1,0 +1,29 @@
+body{
+    background-image: url(fotodefundoff.jpg);
+     background-size: cover;
+     
+}
+.meuh2{
+    font-family: ff;
+    color: aliceblue;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0),-1px 1px 1px rgb(0, 0, 0),1px -1px 1px rgb(0, 0, 0),-1px -1px 1px rgb(0, 0, 0)
+}
+.paragrafo{
+    font-family: rubik;
+    text-align: center;
+    
+}
+#titulo{
+    font-family: rubik;
+    text-align: center;
+    text-shadow: 1px 1px 1px rgb(255, 0, 0),-1px 1px 1px rgb(255, 0, 0),1px -1px 1px rgb(255, 0, 0),-1px -1px 1px rgb(255, 0, 0)
+}
+@font-face {
+    font-family: 'ff';
+    src: url('UrbanJungleDEMO.otf');
+}
+@font-face {
+    font-family: 'rubik';
+    src: url('Rubik-Bold.ttf');
+}
